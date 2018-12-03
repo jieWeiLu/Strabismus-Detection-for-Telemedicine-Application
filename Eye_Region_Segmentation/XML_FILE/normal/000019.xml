@@ -1,0 +1,26 @@
+<annotation>
+	<folder>normal</folder>
+	<filename>000019.jpg</filename>
+	<path>/home/JieweiLu/Documents/straDataset/test/normal/000019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>751</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>148</ymin>
+			<xmax>331</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>
